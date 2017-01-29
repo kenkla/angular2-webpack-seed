@@ -6,4 +6,6 @@ require('@angular/common');
 require('@angular/http');
 require('@angular/router');
 require('rxjs');
+require('jquery');
+require('bootstrap-sass');
 //# sourceMappingURL=vendor.js.map
